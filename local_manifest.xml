@@ -2,9 +2,9 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/10or/G" name="RahulPalXDA/android_device_10or_G.git" remote="github" revision="lineage-18.1" />
- <project path="device/10or/msm8953-common" name="RahulPalXDA/android_device_10or_msm8953-common.git" remote="github" revision="lineage-18.1" />
- <project path="vendor/10or" name="RahulPalXDA/android_vendor_10or.git" remote="github" revision="master" />
- <project path="kernel/10or/G" name="10orDevs/android_kernel_10or_G-4.9.git" remote="github" revision="lineage-18.1" />
+ <project path="device/xiaomi/violet" name="kingsmankdi/violet_trees" remote="kingsmankdi" revision="r" />
+ <project path="device/xiaomi/sm6150-common" name="xiaomi-sm6150/android_device_xiaomi_sm6150-common" remote="github" revision="ruby" />
+ <project path="vendor/xiaomi" name="" remote="github" revision="master" />
+ <project path="kernel/xiaomi/sm610" name="raghavt20/kernel_sm6150" remote="github" revision="r" />
  
 </manifest>
